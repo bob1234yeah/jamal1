@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simplified Minecraft Minecart
+* source:	https://sketchfab.com/3d-models/simplified-minecraft-minecart-e23fb7a1bfca43f881bb8140465873f7
+* author:	Vlad94077 (https://sketchfab.com/Vlad94077)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simplified Minecraft Minecart" (https://sketchfab.com/3d-models/simplified-minecraft-minecart-e23fb7a1bfca43f881bb8140465873f7) by Vlad94077 (https://sketchfab.com/Vlad94077) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
